@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url("../img/pexels-2.jpg");
+    background-size: cover;
+}
+
+.search-box {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 8rem;
+    width: 65%;
+    /* centrage auto */
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.search-bar {
+    background-color: white;
+    width: fit-content;
+    margin: 1rem auto;
+}
+
+.search-icon {
+    color: blue;
+    font-size: 1.2rem;
+    margin: 0 0.2rem;
+}
+
+/* input text */
+.search-text {
+    width: 40rem;
+    height: 1.8rem;
+    border: none;
+}
+
+.search-button {
+    color: white;
+    background-color: #44A33D;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.show-formations {
+    color: white;
+    background-color: #44A33D;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.formations {
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+    width: 78%;
+    justify-content: space-evenly;
+    margin: 4rem auto;
+}
+
+.card {
+    background-color: white;
+    width: 30%;
+    padding: 0.5rem;
+    
+    
+}
+
+.first-button{
+
+    background-color: #E3007E;
+    color: white;
+    border: none;
+    width: 90%;
+    height: 3rem;
+    display: block;
+    margin: 0 auto;
+}
+
+.person-icon {
+    float: right;
+    font-size: 1.8rem;
+    margin: 1rem 0.8rem;
+}
+
+
+
+.graph-card {
+    float: right;
+    font-size: 1.8rem;
+    margin: 1rem 0.8rem;
+}
+
+
+
+.people-card {
+    float: right;
+    font-size: 1.8rem;
+    margin: 1rem 0.8rem;
+}
