@@ -47,6 +47,7 @@ body {
     color: white;
     background-color: #44A33D;
     padding: 0.5rem 2rem 0.5rem 2rem;
+    border: none;
 }
 
 .formations {
